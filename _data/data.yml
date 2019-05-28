@@ -51,31 +51,23 @@ career-profile:
       
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master, Ingénierie des Systèmes Image et Son
+      university: Université de Valenciennes (UVHC)
+      time: 2000 - 2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Multimédia, traitement de signal, cadre, lumière, post-production, électronique, base de 3D, production
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: DUT, Electronique et Informatique Industrielle
+      university: Université Joseph Fournier (Grenoble)
+      time: 1999 - 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Electronique, informatique industrielle, informatique embarquée, micro-contrôleurs, programmation C/C++ et Assembleur
 
-          - Bullet point
-          - Bullet point
+    - degree: DUT, Informatique et Génie Logiciel
+      university: Université Claude Bernard (Lyon 1)
+      time: 1994 - 1996
+      details: |
+        Informatique, algorithmique, logique, mathématiques
 
 experiences:
     - role: Lead Developer
