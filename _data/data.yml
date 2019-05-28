@@ -228,6 +228,9 @@ skills:
       - name: After Effects
         level: 50%
         
+        
+dev:
+
     title: Outils de développement
     toolset:
       - name: openFrameworks (C++)
