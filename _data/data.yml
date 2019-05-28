@@ -39,15 +39,16 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    title: Profil
+    summary: | 
+      Technicien vidéo expérimenté avec expérience dans la captation TV et cinéma. 
+      Solide expérience en multi projection, video mapping, création de contenus interactifs
+      et la projection d'images dans le domaine des arts numériques.
 
-      Second paragraph if required.
+      Gestion d'équipe et gestion de budgets technique. Etude et réalisation de projets. 
+      Rigoureux et méthodique, j'organise et planifie le travail en fonction des contraintes,
+      des délais et des objectifs et analyse sereinement l’ouvrage dont j'ai la charge.
+      
 
 education:
     - degree: MSc in Computer Science
