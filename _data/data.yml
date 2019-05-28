@@ -103,21 +103,55 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Responsable vidéo adjoint
+      time: 2013 - 2015
+      company: La Gaîté Lyrique, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Installation technique vidéo sur les concerts, expositions et événements privés. 
+        Conseil technique sur les projets programmés. 
+        Développement d'outils spécifique à la vidéo. 
+        Tournage / montage vidéo.
+        
+    - role: Intermittent TV / Cinéma
+      time: 2004 - 2013
+      company: Différentes production Cinéma, TF1, Canal+, M6, France4, Arte, Voyage, NatGeo
+      details: |
+        Cadreur / Chef Opérateur / Ingénieur de la Vision en TV, documentaires, fiction.
+        Assistant caméra en fiction et pub.
 
-          - Bullet point
-          - Bullet point
+        CADREUR :
+        - TOP CHEF - Réal. Pierre Leix Cote / Sébastien Zibi - Diffusion M6
+        - UN DINER PRESQUE PARFAIT - Diffusion M6
+        - 200 KM A LA RONDE - Série magazine sur la consommation locale - Réal. Pierre Leix Cote - Diffusion FRANCE 5
+        - 4 MARIAGES POUR 1 LUNE DE MIEL - Diffusion TF1
+        - « Lalo SCHIFRIN », concert au Grand Rex – Studios Jules Verne
+        - « Chacun Son Monde », magazine TV de Philippe GILDAS – Diffusion VOYAGE
+        - « Grand concert pour les mondes perdus », concert philarmonique de musiques de film dirigé par Samuel SENE – Grand Rex
+        ...
+
+        CHEF OPERATEUR :
+        - « Les grandes énigmes du Cerveau », documentaire 52 ' de Philippe CALDERON (partie fiction)
+        - « Dad is Beautiful », installation vidéo de Carolyn LAPLANCHE pour l'ENSAD
+        - « Les expéditions du trois-mât Belem », Bonus DVD des documentaires commentés par Christopher Lee à Londres
+        - Interviews Diverses : Christopher Lee, Patrick Stewart, Mickael Rosenbaum, Ernest Borgnine, Kear Dullea, Bo Hopkins – Studio Jules Verne
+        ...
+
+        ASSISTANT CAMERA :
+        - "A l’Origine" (Assistant Vidéo – Renfort – 5 semaines), Long métrage de Xavier GIANNOLI
+        - « Les Femmes de l'Ombre », long métrage de Jean-Paul SALOME - Participartion aux Essais Caméras
+        - « Les Guignols de l'Info » (2nd AC), série de courts
+        - « Et l'Homme Inventa l'Animal » (1er AC – Partie Fiction), documentaire 2 x 90 min de Jean-Baptiste ERRECA - Diffusion Canal+
+        - « Il est né le Divin Enfant » (1er AC), court métrage de Nicolas BERTRAND et Nicolas SPANOUDIS
+        ...
+
+        INGENIEUR DE LA VISION :
+        - « Chacun Son Monde », magazine TV de Philippe GILDAS – Diffusion VOYAGE
+        - « NatGeo Mag » / « Tout Nouveau Tout Show »... magazines TV – Diffusion TMC, VOYAGE et National Geographic
+        ...
+
 
 projects:
-    title: Projects
+    title: Autres projets
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
