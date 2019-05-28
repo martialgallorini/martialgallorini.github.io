@@ -71,7 +71,7 @@ education:
 
 experiences:
     - role: Responsable Service Vidéo
-      time: 2015 - Present
+      time: 2015 - Présent
       company: La Gaîté Lyrique, Paris
       details: |
         - Mise en œuvre technique des projets artistiques et évènementiels : 
@@ -90,19 +90,37 @@ experiences:
         - Développement d'outils spécifiques pour les besoins internes (développement C++ openFrameworks, MaxMSP,
         Qt, Processing, Touchdesigner...)
         
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Responsable Technique
+      time: 2015 - Présent
+      company: ABAK-VM, Saint-Maur-des-Fossés
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Développement de la branche vidéo mapping de la société ABAK spécialisée dans l'éclairage architectural.
+        Conseil technique et investissements en matériel, étude de projets, simulations, écriture,
+        création de contenus génératifs et interactifs.
+        
+    - role: Responsable Technique - Scénographie lumière et vidéo
+      time: 2015 - 2016
+      company: Lumyn, Vincennes
+      details: |
+        Responsable technique, scénographie vidéo et scénographie lumière pour l'exposition
+        "Saint François d'Assise, l'homme intemporel" en la cathédrale Sainte Marie Majeure (La Major) à Marseille.
 
-          - Bullet point
-          - Bullet point
+        La scénographie consiste en plusieurs modules / cimaises en bois intégrés dans la nef de la cathédrale.
+        Les modules et architecture sont gérées par le cabinet d'architecture FAABRIK à Marseille.
 
+        Missions :
+        - création lumière
+        - éclairage des 4 oeuvres majeures par vidéo projection (éclairage dynamique - mapping)
+        - projection sur le toit (toile) d'un des modules (12m de base)
+        - développement des média players pour les projection vidéo
+        - installation vidéo et lumière
+
+        Exposition des oeuvres issues de la collection de Joseph Arakel.
+
+        Durée de l'exposition : 9 mois
+
+        Exposition nomade montée également en la cathédrale Saint Jean à Lyon  
+      
     - role: Responsable vidéo adjoint
       time: 2013 - 2015
       company: La Gaîté Lyrique, Paris
@@ -150,10 +168,7 @@ experiences:
 projects:
     title: Autres projets
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+        Ici figurent mes activités annexes
     assignments:
       - title: Velocity
         link: "#hook"
@@ -178,14 +193,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+        Articles liés à mon travail
+        
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Interview de Vidvox, éditeur du logiciel VDMX
+        authors: David Lublin
+        conference: https://vdmx.vidvox.net/blog/la-gaite-lyrique
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
