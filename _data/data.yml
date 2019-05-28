@@ -70,23 +70,26 @@ education:
         Informatique, algorithmique, logique, mathématiques
 
 experiences:
-    - role: Lead Developer
+    - role: Responsable Service Vidéo
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: La Gaîté Lyrique, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Mise en œuvre technique des projets artistiques et évènementiels : 
+        étude des projets vidéo / expertise / préconisations, définition des besoins et mise en place
+        des moyens techniques et humains / coordination, planification et management des équipes techniques /
+        conseil aux artistes et clients
 
-          - Bullet point
-          - Bullet point
+        - Préconisation des évolutions techniques vidéo des espaces / gestion des budgets et des investissements
+        dans mon domaine / organisation de l'entretien et la maintenance des équipements vidéo
 
+        - Gestion de la partie vidéo et interactivité des projets programmés au sein de la structure : 
+        préparation technique, calage multi-projection, projections vidéo sur les concerts et les expositions,
+        assistance des artistes sur leurs installations, captations / streaming, gestion et conversion des médias
+        pour les projections
+
+        - Développement d'outils spécifiques pour les besoins internes (développement C++ openFrameworks, MaxMSP,
+        Qt, Processing, Touchdesigner...)
+        
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
