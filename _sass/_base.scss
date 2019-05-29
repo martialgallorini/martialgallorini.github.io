@@ -181,7 +181,7 @@ p {
         margin-bottom: 2px;
     }
     .job-title, .degree {
-        color: $theme-color;
+        color: darken($theme-color, 15%);
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
