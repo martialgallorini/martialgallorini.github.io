@@ -2,7 +2,7 @@
 {% if skills %}
 <section class="skills-section section">
 
-      {% for categories in skills.title %}
+      {% for categories in skills %}
 
   
   <h2 class="section-title">
@@ -10,7 +10,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
     </span>
-    {{ categories }}
+    {{ skills.title }}
   </h2>
 
   <div class="skillset">
