@@ -100,7 +100,7 @@ experiences:
         
     - role: Responsable Technique - Scénographie lumière et vidéo
       time: 2015 - 2016
-      company: Lumyn, Vincennes
+      company: Lumyn, Marseille
       details: |
         Responsable technique, scénographie vidéo et scénographie lumière pour l'exposition
         "Saint François d'Assise, l'homme intemporel" en la cathédrale Sainte Marie Majeure (La Major) à Marseille.
@@ -155,10 +155,8 @@ projects:
 publications:
     title: Publications
     intro: |
-        Articles liés à mon travail
-        
     papers:
-      - title: Interview de Vidvox, éditeur du logiciel VDMX
+      - title: Interview par Vidvox, éditeur du logiciel VDMX
         authors: par David Lublin
         conference: https://vdmx.vidvox.net/blog/la-gaite-lyrique
 
