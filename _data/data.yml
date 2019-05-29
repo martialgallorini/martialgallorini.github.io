@@ -51,6 +51,7 @@ career-profile:
       
 
 education:
+    title: Formation
     - degree: Master, Ingénierie des Systèmes Image et Son
       university: Université de Valenciennes (UVHC)
       time: 2000 - 2004
@@ -142,6 +143,10 @@ projects:
     title: Autres projets
     intro: >
     assignments:
+      - title: Nuit Blanche, Paris
+        link: "https://vimeo.com/185319317"
+        tagline: "Prestation technique sur l'installation MurMur en association avec Studio Chevalvert et ABAK-VM"
+
       - title: Association Silhouette
         link: "http://www.association-silhouette.com/"
         tagline: "Responsable technique du Festival Silhouette au parc des Buttes Chaumont à Paris. 
