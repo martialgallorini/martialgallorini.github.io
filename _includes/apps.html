@@ -13,13 +13,13 @@
 
   <div class="skillset">
 
-    {% for skill in apps.toolset %}
+    {% for app in apps.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ apps.name }}</h3>
+      <h3 class="level-title">{{ app.name }}</h3>
 
       <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ apps.level }}">
+        <div class="level-bar-inner" data-level="{{ app.level }}">
         </div>
       </div><!--//level-bar-->
 
