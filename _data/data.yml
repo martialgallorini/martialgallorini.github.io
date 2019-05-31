@@ -155,7 +155,6 @@ publications:
 
 apps:
     title: Logiciels
-
     toolset:
       - name: VDMX
         level: 87%
@@ -203,6 +202,5 @@ skills:
         level: 40%
 
 
-
 footer: >
-    <a href="https://www.luxanima.io" target="_blank" rel="nofollow">Martial GALLORINI - www.luxanima.io</a>
+    <a href="https://www.luxanima.io" target="_blank" rel="follow">Martial GALLORINI - www.luxanima.io</a>
