@@ -153,7 +153,7 @@ publications:
         authors: par David Lublin
         conference: https://vdmx.vidvox.net/blog/la-gaite-lyrique
 
-skills:
+apps:
     title: Logiciels
 
     toolset:
@@ -181,6 +181,7 @@ skills:
       - name: After Effects
         level: 50%
 
+skills:
     title: Outils de développement
     toolset:
       - name: openFrameworks (C++)
