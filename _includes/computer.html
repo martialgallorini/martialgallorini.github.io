@@ -1,0 +1,20 @@
+
+{% assign computer = site.data.data.sidebar.computer %}
+{% if computer %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Informatique
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for tech in computer %}
+    <li>
+      {{ tech.item }}
+      <span class="lang-desc">({{ tech.level }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//computer-->
+{% endif %}
