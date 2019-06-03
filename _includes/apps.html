@@ -1,28 +1,29 @@
-{% assign apps = site.data.data.apps %}
-{% if apps %}
+{% assign skills = site.data.data.skills %}
+{% if skills %}
 <section class="skills-section section">
 
+  
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
     </span>
-    {{ apps.title }}
+    {{ skills.title }}
   </h2>
 
   <div class="skillset">
 
-    {% for app in apps.toolset %}
+    {% for skill in skills.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ app.name }}</h3>
+      <h3 class="level-title">{{ skill.name }}</h3>
 
       <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ app.level }}">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
       </div><!--//level-bar-->
 
     </div><!--//item-->
     {% endfor %}
-    
+ 
   </div>
