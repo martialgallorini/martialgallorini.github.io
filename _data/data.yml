@@ -163,7 +163,7 @@ apps:
         level: 87%
 
       - name: Modulo Player
-        level: 60%
+        level: 750%
 
       - name: Modulo Kinetic
         level: 60%
@@ -172,7 +172,7 @@ apps:
         level: 70%
 
       - name: After Effects
-        level: 50%
+        level: 40%
 
       - name: Blender
         level: 70%
@@ -182,7 +182,7 @@ skills:
     title: Outils de développement
     toolset:
       - name: openFrameworks (C++)
-        level: 50%
+        level: 60%
 
       - name: Touchdesigner
         level: 70%
@@ -191,7 +191,7 @@ skills:
         level: 40%
 
       - name: Arduino
-        level: 60%
+        level: 65%
 
       - name: Processing
         level: 50%
