@@ -177,8 +177,6 @@ apps:
       - name: Blender
         level: 70%
 
-      - name: After Effects
-        level: 50%
 
 skills:
     title: Outils de développement
