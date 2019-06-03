@@ -45,10 +45,10 @@ sidebar:
       - item: Mac
         level: avancé
       
-      - idiom: Linux
+      - item: Linux
         level: avancé
 
-      - idiom: Réseaux
+      - item: Réseaux
         level: avancé
 
         
