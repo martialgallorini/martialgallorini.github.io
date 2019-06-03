@@ -38,6 +38,21 @@ sidebar:
       - item: Cinéma
         link:
 
+    computer:
+      - item: Windows
+        level: intermédiaire
+
+      - item: Mac
+        level: avancé
+      
+      - idiom: Linux
+        level: avancé
+
+      - idiom: Réseaux
+        level: avancé
+
+        
+
 career-profile:
     title: Profil
     summary: | 
