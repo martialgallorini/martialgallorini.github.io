@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Martial GALLORINI
-    tagline: Installations vidéo numériques et interactives - Video Mapping - Creative coding
+    tagline: Installations vidéo et systèmes interactifs - Video Mapping - Creative coding
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,8 +56,8 @@ sidebar:
 career-profile:
     title: Profil
     summary: | 
-      Technicien vidéo expérimenté avec expérience dans la captation TV et cinéma. 
-      Solide expérience en multi projection, video mapping, création de contenus interactifs
+      Responsable vidéo expérimenté avec expérience dans la captation TV et cinéma. 
+      Solide expérience en systèmes interactifs, multi projection, video mapping, création de contenus génératifs
       et la projection d'images dans le domaine des arts numériques.
 
       Gestion d'équipe et gestion de budgets technique. Etude et réalisation de projets. 
@@ -105,7 +105,7 @@ experiences:
         - Développement d'outils spécifiques pour les besoins internes (développement C++ openFrameworks, MaxMSP,
         Qt, Processing, Touchdesigner...)
         
-    - role: Responsable Technique
+    - role: Direction Technique
       time: 2015 - Présent
       company: ABAK-VM, Saint-Maur-des-Fossés
       details: |
@@ -113,7 +113,7 @@ experiences:
         Conseil technique et investissements en matériel, étude de projets, simulations, écriture,
         création de contenus génératifs et interactifs.
         
-    - role: Responsable Technique - Scénographie lumière et vidéo
+    - role: Direction Technique - Scénographie lumière et vidéo
       time: 2015 - 2016
       company: Lumyn, Marseille
       details: |
