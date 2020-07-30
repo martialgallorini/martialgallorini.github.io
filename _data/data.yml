@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Martial GALLORINI
-    tagline: Installations vidéo et systèmes interactifs - Video Mapping - Creative coding
+    tagline: Installations vidéo et systèmes interactifs - Video Mapping - Creative coding - Spectacle vivant et muséographie
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,9 +56,10 @@ sidebar:
 career-profile:
     title: Profil
     summary: | 
-      Responsable vidéo expérimenté avec expérience dans la captation TV et cinéma. 
-      Solide expérience en systèmes interactifs, multi projection, video mapping, création de contenus génératifs
-      et la projection d'images dans le domaine des arts numériques.
+      Responsable vidéo expérimenté avec 
+      Solide expérience en systèmes interactifs, multi projection, video mapping et création de contenus génératifs.
+      Projection d'images dans le domaine des arts numériques, spectacle vivant et muséographie.
+      Grande expérience dans la captation TV et cinéma.
 
       Gestion d'équipe et gestion de budgets technique. Etude et réalisation de projets. 
       Rigoureux et méthodique, j'organise et planifie le travail en fonction des contraintes,
